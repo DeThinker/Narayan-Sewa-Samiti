@@ -1,0 +1,12 @@
+= 1.0.3 =
+* Style and functional issues fixed.
+
+= 1.0.2 =
+* Style and functional issues fixed.
+
+= 1.0.1 =
+* Changelog file added.
+* Screenshot upated.
+
+= 1.0.0 =
+* Initial release.
