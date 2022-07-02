@@ -4,8 +4,10 @@ A static website designed in HTML, CSS and WordPress.
 <ul>
 <li>Made for an NGO named Narayan Sewa Samiti to help people in need by maintaining the number of donations and volunteers and spreading the awareness among them.
 <br><br>
-<li>Language and Technology: WordPress, HTML, CSS.
+ <li><b>Language and Technology:</b> WordPress, HTML, CSS.
 <br><br>
-<li>Author Name : Vineet Jindal(me)
+ <li><b>Author Name :</b> Vineet Jindal(me)
 <br><br>
-<li>Website link :[Click here](https://nssngo.org.in/)
+<li><b>Website link :</b> </ul>[Click here](https://nssngo.org.in/)
+
+
